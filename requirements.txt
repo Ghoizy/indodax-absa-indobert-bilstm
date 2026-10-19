@@ -1,0 +1,15 @@
+# Reference package list for a Colab-based workflow; NOT a complete lockfile.
+# The original notebooks select PyTorch/CUDA from the Colab runtime.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn>=0.13.2,<1
+wordcloud>=1.9.3,<2
+transformers>=4.44,<5
+accelerate>=0.34,<2
+openpyxl>=3.1.5,<4
+xlsxwriter>=3.2,<4
+torch
+tqdm

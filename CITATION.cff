@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the author's undergraduate thesis when referencing the research."
+type: software
+title: "Indodax ABSA Research Portfolio — IndoBERT + BiLSTM"
+authors:
+  - family-names: "Ghoizy"
+    given-names: "Muhammad Nouval"
+preferred-citation:
+  type: thesis
+  title: "Implementasi Hybrid Aspect-Based Sentiment Analysis dengan IndoBERT dan BiLSTM terhadap Review Aplikasi Exchange Cryptocurrency Indodax"
+  authors:
+    - family-names: "Ghoizy"
+      given-names: "Muhammad Nouval"
+  year: 2026
+  institution: "Universitas Ahmad Dahlan"
